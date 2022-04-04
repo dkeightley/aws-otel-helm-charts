@@ -2,8 +2,8 @@ nameOverride: ""
 fullnameOverride: ""
 global:
   namespaceOverride: ""
-awsRegion: ""
-clusterName: ""
+awsRegion: "ap-southeast-2"
+clusterName: "test"
 serviceAccount:
   create: true
   annotations: {}
